@@ -1,0 +1,3 @@
+SELECT *
+FROM Persons
+WHERE SSN = 641078001;
